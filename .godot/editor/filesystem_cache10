@@ -1,3 +1,13 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1782173655
+::res://::1782789901
 icon.svg::CompressedTexture2D::8205271566724343338::1782172141::1782173655::1::::<><><>0<>0<>58b4e96efbfcd5b5991928601a12b322<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::3177126858731958655::1782178461::0::1::::<><><>0<>0<><>::
+::res://Assets/::1782758747
+bckgrnd.jpg::CompressedTexture2D::7074974214788096401::1782312360::1782312360::1::::<><><>0<>0<>d85e69ef594af25707664adfdb312e2f<>res://.godot/imported/bckgrnd.jpg-c7d294d60d847d4a6a5479f623e5c472.ctex::
+PerfectDOSVGA437.ttf::FontFile::3361779330441810881::1782758747::1782758747::1::::<><><>0<>0<>5c70e5a5757abeab5b5ae4b97d616a9c<>res://.godot/imported/PerfectDOSVGA437.ttf-786b6ad36bcc07586491ade6b3f5b321.fontdata::
+::res://Scenes/::1782790491
+game.tscn::PackedScene::5036214507388673526::1782790491::0::1::::<><><>0<>0<><>::
+MainMenu.tscn::PackedScene::8341184073119870591::1782777705::0::1::::<><><>0<>0<><>::uid://mgpc8ugxno1m::::res://Scripts/mainMenu.gd<>uid://c72f16fbt5ctd::::res://Assets/bckgrnd.jpg<>uid://bn5qaqwm7yblh::::res://Assets/PerfectDOSVGA437.ttf
+player.tscn::PackedScene::8198648776666441357::1782790616::0::1::::<><><>0<>0<><>::
+::res://Scripts/::1782777705
+mainMenu.gd::GDScript::855568481130573392::1782776929::0::1::::<>Control<><>0<>0<><>::

@@ -1,3 +1,9 @@
+CollisionShape2D
+StaticBody2D
+CharacterBody2D
+Camera2D
+Sprite2D
+Panel
 VBoxContainer
 HBoxContainer
 RichTextLabel
