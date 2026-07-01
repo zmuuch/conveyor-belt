@@ -7,12 +7,13 @@
 [node name="Game" type="Node2D" unique_id=730885]
 
 [node name="Player" parent="." unique_id=1574548642 instance=ExtResource("1_ebmjs")]
+position = Vector2(7, -7)
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=424297314]
-zoom = Vector2(50, 50)
+zoom = Vector2(10, 10)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=376973623]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=2058363712]
-position = Vector2(1, 4)
+position = Vector2(0, 14)
 shape = SubResource("WorldBoundaryShape2D_fqqo4")
